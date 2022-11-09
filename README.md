@@ -44,8 +44,17 @@ Software I use for development or general purpose.
 
 
 ## Linux 
+For developer environment setup follow 
 
+https://github.com/imranpollob/Ubuntu-Mint-Development-Environment-Setup
 
+1. ZSH https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+2. Oh My Zsh https://ohmyz.sh/
+3. powerlevel10k https://github.com/romkatv/powerlevel10k
+4. zsh-autosuggestions https://github.com/zsh-users/zsh-autosuggestions
+5. zsh-syntax-highlighting https://github.com/zsh-users/zsh-syntax-highlighting
+6. nvm https://github.com/nvm-sh/nvm
+7. Node `nvm install --lts`
 
 ## Online Tools
 1. Image hosting https://imgbb.com/
